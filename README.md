@@ -15,3 +15,11 @@
 
 ### Trips by Gender and Weekday
 ![Trips By Gender and Weekday](https://github.com/matthallman/Week_14_CitiBike/blob/main/weekday_gender.png)
+
+### Top Starting Locations in NY
+![Top Starting Locations](https://github.com/matthallman/Week_14_CitiBike/blob/main/starting_locations.png)
+
+## Summary
+- Males are the primary user of the bikes.
+- Focus on maintenance in the overnight hours or early morning.
+- Rentals are generally used for short trips so the focus should be on as many hubs as possible to utilize picking up and leaving rentals. 
